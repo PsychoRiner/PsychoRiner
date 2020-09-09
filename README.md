@@ -1,11 +1,12 @@
-### Hi there 👋
+## 你好， 👋我叫王俊杰，来自陕西西安，喜欢交朋友(๑°3°๑)，性格开朗活泼，待人真诚。
+
 
 <!--
 **PsychoRiner/PsychoRiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
